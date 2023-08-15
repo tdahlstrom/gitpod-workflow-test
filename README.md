@@ -18,4 +18,4 @@ The workflows included in this GitPod repository will run quickly and are perfec
 **Delete GitPod Instance** - To delete a GitPod instance, got to this [LINK](https://gitpod.io/workspaces).  You will see a list of your most immediately opened GitPod instances.  Click the options button, it is 3 black dots stacked on top of each other, which will be to the right of a GitPod instance.  Click on the red _Delete_ text that is displayed in the drop-down when clicking on the 3 black dots.  You will be prompted with a new window, click the red button that says _Delete Workspace_.
 
 # Troubleshooting
-**Ports tab doesn't show** - If the port tab doesn't show, there might be a conflict with browser plugins or other tabs open.  Try restarting your browser and opening the GitPod instance without other tabs being open.
+**Ports tab doesn't show** - If the port tab doesn't show, there might be a conflict with browser plugins or other tabs open.  Try restarting your browser and opening the GitPod instance without other tabs open.
